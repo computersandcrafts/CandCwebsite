@@ -121,7 +121,7 @@ header a:hover{
     float: left;
 }
 
-#newsletter form {
+#newsletter h2 {
     float: right;
     margin-top: 15px;
 }
